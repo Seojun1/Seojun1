@@ -3,9 +3,9 @@
 
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/css-3766AB?style=flat-square&logo=Css&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/css-3766AB?style=flat-square&logo=CSS&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/html-red?style=flat-square&logo=Html&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/html-red?style=flat-square&logo=HTML&logoColor=white"/></a>
 
 <!--
 **Seojun1/Seojun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
