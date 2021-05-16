@@ -1,11 +1,7 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/Java-lightblue?style=flat-square&logo=Java&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/html-red?style=flat-square&logo=&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a>
 
 <!--
 **Seojun1/Seojun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
