@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=Flutter&logoColor=white"/></a>
 
 
-[![Seojun's GitHub stats](https://github-readme-stats.vercel.app/api?Seojun1=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Seojun's GitHub stats](https://github-readme-stats.vercel.app/api?Seojun1=anuraghazra)]
 
 
 <!--
