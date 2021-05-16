@@ -1,5 +1,5 @@
 # Hi, I'm SeoJun 👋 
-### I am just an ordinary student with an interest in Swift & Web &  programming!!
+### I am just an ordinary student with an interest in Swift & Web & AI programming!!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeojun1%2Fhit-counter&count_bg=%23543956&title_bg=%2366CBB3&icon=&icon_color=%23E7E7E7&title=hit&edge_flat=false)](https://hits.seeyoufarm.com)
 
