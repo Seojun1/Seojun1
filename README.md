@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Typescript-blue?style=flat-square&logo=Typescript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=Android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=Flutter&logoColor=white"/></a>
 
 
