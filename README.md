@@ -5,7 +5,7 @@
 
 
 ### 💻I want Learn this language..💻
-<img src="https://img.shields.io/badge/HTNL-orange?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a>
