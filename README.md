@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=Flutter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTNL-orange?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-blue?style=flat-CSS3&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SQL-3DDC84?style=flat-square&logo=SQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PHP-3DDC84?style=flat-square&logo=PHP&logoColor=white"/></a>
 
 
 ![Seojun1's github stats](https://github-readme-stats.vercel.app/api?username=Seojun1&theme=tokyonight&show_icons=true)
