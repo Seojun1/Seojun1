@@ -6,11 +6,11 @@
 
 ### 💻I want Learn this language..💻
 <img src="https://img.shields.io/badge/Linux-yellow?style=flat-square&logo=Linux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Swift-orange?style=flat-square&logo=Swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Swift-orange?style=flat-square&logo=Swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PHP-purple?style=flat-square&logo=PHP&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
