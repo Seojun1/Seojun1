@@ -2,7 +2,7 @@
   
 ### Hi, I'm Seojun 👋
 
-🇰🇷 Just Student 💻 \
+🇰🇷 Just Student 💻
 
 ### My Skills ⚡
 
@@ -23,8 +23,9 @@
 <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-purple?style=flat-square&logo=PHP&logoColor=white"/>
-### Stats 🔭
+<br>
+### Stats!!
 <div>
-[![Seojun1's github stats](https://badge42.herokuapp.com/api/stats/nkim?cursus=42cursus)](https://github.com/JaeSeoKim/badge42) 
+ [![Seojun1's 42 stats](https://badge42.herokuapp.com/api/stats/jaeskim?cursus=C%20Piscine)](https://github.com/Seojun1/badge42)
 <img src="https://github-readme-stats.vercel.app/api?username=Chloekkk&theme=blue-green" />
   </div>
