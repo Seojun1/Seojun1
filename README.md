@@ -24,8 +24,6 @@
 <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-purple?style=flat-square&logo=PHP&logoColor=white"/>
 <br>
-### Stats!!
 <div>
-[![Seojun's 42 stats](https://badge42.herokuapp.com/api/stats/Seojun?darkmode=true&cursus=C%20Piscine)](https://github.com/Seojun/badge42)
 <img src="https://github-readme-stats.vercel.app/api?username=Chloekkk&theme=blue-green" />
   </div>
