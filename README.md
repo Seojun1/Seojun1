@@ -23,7 +23,8 @@
 <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-purple?style=flat-square&logo=PHP&logoColor=white"/>
-<br>
+<br><br>
+  <hr>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=Chloekkk&theme=blue-green" />
   </div>
