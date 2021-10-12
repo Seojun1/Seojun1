@@ -26,6 +26,6 @@
 <br>
 ### Stats!!
 <div>
-[![Seojun's 42 stats](https://badge42.herokuapp.com/api/stats/Seojun?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+[![nkim's 42 stats](https://badge42.herokuapp.com/api/stats/nkim?cursus=42cursus)](https://github.com/JaeSeoKim/badge42) 
 <img src="https://github-readme-stats.vercel.app/api?username=Chloekkk&theme=blue-green" />
   </div>
