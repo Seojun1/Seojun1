@@ -18,10 +18,10 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 <div>
-<img src="https://img.shields.io/badge/Linux-yellow?style=flat-square&logo=Linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=Flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-purple?style=flat-square&logo=PHP&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=PHP&logoColor=white"/>
 <br><br>
   <hr>
 <div>
