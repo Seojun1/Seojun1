@@ -1,7 +1,7 @@
 <div width="100%" height="100%" align="center">
   
 ### Hi, I'm Seojun 👋
-# I'm studying artificial intelligence!
+# A student who wants to be an AI developer!!
 
 🇰🇷 Just Student 💻
 
